@@ -26,8 +26,8 @@ This is a classical microprocessor design with EPROM and RAM. At reset the EPROM
 - [Gerber photoplots](microz_r1_1_gerber.zip)
 
 ### Software
-- [MicroZ monitor](microz_monitor_working_rev0_1.zip)
-- [CP/M 2.2 BIOS/BDOS/CCP](microz_cpm22_bios_bdos_ccp.zip)
+- [MicroZ monitor](Software/microz_monitor_working_rev0_1.zip)
+- [CP/M 2.2 BIOS/BDOS/CCP](Software/microz_cpm22_bios_bdos_ccp.zip)
 - [CP/M 2.2 distribution](https://github.com/Plasmode/ZRCC/blob/main/rev1.0_rev1.1/software/cpm22dri.zip) files
 
 ### Manuals
