@@ -17,7 +17,7 @@ MicroZ is a full-feature Z80 CP/M-capable SBC based on Z84C15 controller that fi
 - CP/M ready
 - Designed for acrylic Arduino Mega enclosure
 
-
+![annotated](microz_annotated_topview.jpg)
 ### Functions
 This is a classical microprocessor design with EPROM and RAM. At reset the EPROM copies itself into RAM and then jump into RAM. The Z84C15 has two programmable chip selects that are used to page out the EPROM or change RAM banks.
 
